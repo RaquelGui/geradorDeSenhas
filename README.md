@@ -39,7 +39,8 @@ Para sugestões, correções ou novas funcionalidades, por favor abra uma issue.
 
 ## Autor
 
-@RaquelGui
+- [@RaquelGui](https://www.github.com/RaquelGui)
+
 Sinta-se à vontade para utilizar, modificar e adaptar este conteúdo, de acordo com as necessidades específicas do seu projeto.
 
 ## Créditos de imagem
