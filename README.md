@@ -48,5 +48,8 @@ Sinta-se à vontade para utilizar, modificar e adaptar este conteúdo, de acordo
 A imagem de fundo utilizada neste projeto foi fornecida por [John Schnobrich](https://unsplash.com/@johnishappysometimes) no [Unsplash](https://unsplash.com).
 
 
+## Screenshot do Projeto
+
+![Screenshot](img/screenshot.png)
 
   
